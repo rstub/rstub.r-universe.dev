@@ -1,12 +1,14 @@
-{
-  "package": "swephR",
-  "url": "https://github.com/rstub/swephR"
-},
-{
-  "package": "swephRdata",
-  "url": "https://github.com/rstub/swephRdata"
-},
-{
-  "package": "dqrng",
-  "url": "https://github.com/daqana/dqrng"
-}
+[
+  {
+    "package": "swephR",
+    "url": "https://github.com/rstub/swephR"
+  },
+  {
+    "package": "swephRdata",
+    "url": "https://github.com/rstub/swephRdata"
+  },
+  {
+    "package": "dqrng",
+    "url": "https://github.com/daqana/dqrng"
+  }
+]
