@@ -10,5 +10,13 @@
   {
     "package": "dqrng",
     "url": "https://github.com/daqana/dqrng"
+  },
+  {
+    "package": "tikzDevice",
+    "url": "https://github.com/daqana/tikzDevice"
+  },
+  {
+    "package": "RcppArrayFire",
+    "url": "https://github.com/daqana/rcpparrayfire"
   }
 ]
